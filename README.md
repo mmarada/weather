@@ -11,7 +11,7 @@ https://rapidapi.com/wirefreethought/api/geodb-cities
 
 Steps:
 
-Download the zip.
-Go to the project folder
-Run npm install
-Run npm start
+1.Download the zip. Extract it.
+2.Go to the weather project folder
+3.Run npm install
+4.Run npm start
